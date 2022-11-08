@@ -1,5 +1,5 @@
 # Text-to-Speech-Converter
-Text-to-Speech Converter using JavaScript (HTML, CSS)
+Text-to-Speech Converter using JavaScript (HTML, CSS).
 
 
 1. Have all the files in the same folder.
